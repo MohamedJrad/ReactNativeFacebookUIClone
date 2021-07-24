@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.med13.facebookUIclone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
